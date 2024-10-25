@@ -4,4 +4,5 @@
 #[lab_03](https://github.com/Sony-Dodla/AIML-LAB/blob/main/AIMLAssignment_3.ipynb)\
 #[lab_04](https://github.com/Sony-Dodla/AIML-LAB/blob/main/AIML_ASSIGNMENT_4.ipynb)\
 #[lab_05](https://github.com/Sony-Dodla/AIML-LAB/blob/main/AIML_Assignment_5.ipynb)\
+#[lab_06](https://github.com/Sony-Dodla/AIML-LAB/blob/main/AIML_LAB_6.ipynb)\
 #[lab_07](https://github.com/Sony-Dodla/AIML-LAB/blob/main/AIML_Assignment_7.ipynb)
